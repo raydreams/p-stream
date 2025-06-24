@@ -81,11 +81,11 @@
     }
   },
   "errors": {
-    "badge": "It broke 💀",
-    "details": "Error details",
-    "reloadPage": "Reload the page",
-    "showError": "Show error details",
-    "title": "We encountered an error!"
+    "badge": "it broke you fool",
+    "details": "view error details",
+    "reloadPage": "pls fix it",
+    "showError": "let me in",
+    "title": "i see an error but i'm too lazy to fix it. perhaps this can help"
   },
   "footer": {
     "legal": {
@@ -321,11 +321,11 @@
     }
   },
   "notFound": {
-    "badge": "Not found",
-    "goHome": "Back to home",
-    "reloadButton": "Try again",
-    "message": "We looked everywhere: under the bins, in the closet, behind the proxy, but ultimately couldn't find the page you are looking for. (ಥ﹏ಥ)",
-    "title": "Couldn't find that page"
+    "badge": "yeah idk what this is",
+    "goHome": "visit donald trump",
+    "reloadButton": "buy a tesla",
+    "message": "i dont know why you're here but hey! good to see you. donate to the devs if you want to support them, they work hard on this site! ( ͡° ͜ʖ ͡°) (not the player tho, the player is made by a different dev)",
+    "title": "amazon failed to deliver your package"
   },
   "downtimeNotice": {
     "badge": "Issues",
@@ -437,21 +437,21 @@
   },
   "player": {
     "back": {
-      "default": "Back to home",
-      "short": "Back"
+      "default": "take me back",
+      "short": "back"
     },
     "casting": {
-      "enabled": "Casting to device 🎬"
+      "enabled": "im projecting with all my brainpower"
     },
     "menus": {
       "downloads": {
-        "button": "Atempt download",
-        "hlsDownloader": "Or, go to the <0>hls downloader website</0> and paste the playlist URL from below.",
-        "disclaimer": "Downloads are taken directly from the provider. P-Stream does not have control over how the downloads are provided.",
-        "copyHlsPlaylist": "Copy HLS playlist link",
-        "downloadSubtitle": "Download current subtitle",
-        "downloadVideo": "Download video",
-        "hlsDisclaimer": "Downloads are taken directly from the provider. P-Stream does not have control over how the downloads are provided.<br /><br />Please note you are downloading an HLS playlist, <bold>it is not recommended to download if you are not familiar with advanced streaming formats</bold>. Try different sources for different formats.",
+        "button": "try downloading",
+        "hlsDownloader": "or just use <0>hls downloader website</0> and paste url lazy fuck.",
+        "disclaimer": "downloading are taken directly from the provider. i does not have control over how the downloads are provided.",
+        "copyHlsPlaylist": "banana (copy hls)",
+        "downloadSubtitle": "diddy (sustitle)",
+        "downloadVideo": "escape (download vid)",
+        "hlsDisclaimer": "download are taken directly from provider. we does not have control over how the downloads are provided.<br /><br />pls note you are downloading an HLS playlist, <bold>it is not recommended to download if you are not have 2 or more braincell</bold>. but i warn you!",
         "onAndroid": {
           "1": "To download on Android, click the download button then, on the new page, <bold>tap and hold</bold> on the video, then select <bold>save</bold>.",
           "shortTitle": "Download / Android",
@@ -494,15 +494,15 @@
         "auto": "Auto"
       },
       "settings": {
-        "downloadItem": "Download",
-        "enableSubtitles": "Enable Subtitles",
-        "experienceSection": "Viewing experience",
-        "playbackItem": "Playback settings",
-        "audioItem": "Audio",
-        "qualityItem": "Quality",
-        "sourceItem": "Source",
-        "subtitleItem": "Subtitles",
-        "videoSection": "Video settings"
+        "downloadItem": "save",
+        "enableSubtitles": "use sustitles",
+        "experienceSection": "view differently",
+        "playbackItem": "play it different",
+        "audioItem": "dance",
+        "qualityItem": "picture",
+        "sourceItem": "server",
+        "subtitleItem": "sustiles",
+        "videoSection": "vid setting"
       },
       "sources": {
         "failed": {
@@ -517,28 +517,28 @@
           "text": "This source has no streams for this movie or show. /ᐠ - ˕ -マ Ⳋ",
           "title": "No stream :("
         },
-        "title": "Sources",
-        "unknownOption": "Unknown",
-        "editOrder": "Edit order"
+        "title": "servers",
+        "unknownOption": "idk",
+        "editOrder": "edit set"
       },
       "subtitles": {
-        "customChoice": "Drop or upload file",
-        "customizeLabel": "Customize",
-        "offChoice": "Off",
-        "onChoice": "On",
-        "SourceChoice": "Source Captions",
-        "OpenSubtitlesChoice": "OpenSubtitles",
+        "customChoice": "drool or provide file",
+        "customizeLabel": "make it your own",
+        "offChoice": "no",
+        "onChoice": "ya",
+        "SourceChoice": "pls sustile",
+        "OpenSubtitlesChoice": "find sustiles",
         "settings": {
-          "backlink": "Custom subtitles",
-          "delay": "Subtitle delay",
-          "fixCapitals": "Fix capitalization"
+          "backlink": "my susitles",
+          "delay": "sustitle delay",
+          "fixCapitals": "fix spell"
         },
-        "title": "Subtitles",
-        "unknownLanguage": "Unknown",
-        "dropSubtitleFile": "Drop subtitle file here! >_<",
-        "scrapeButton": "Scrape subtitles",
-        "empty": "There are no provided subtitles for this.",
-        "notFound": "None of the available options match your query",
+        "title": "sustiles",
+        "unknownLanguage": "idk mane",
+        "dropSubtitleFile": "pls give me your sustile",
+        "scrapeButton": "find sustitles",
+        "empty": "no provided sustitles for this :(",
+        "notFound": "None  qof the available options match your query",
         "useNativeSubtitles": "Use native video subtitles",
         "useNativeSubtitlesDescription": "May fix subtitles when casting and in PiP"
       },
@@ -586,16 +586,16 @@
       "nextSeason": "Next season"
     },
     "playbackError": {
-      "badge": "Playback error",
+      "badge": "ermmm. i think it broke",
       "errors": {
-        "errorAborted": "The fetching of the media was aborted by the user's request.",
-        "errorDecode": "Despite having previously been determined to be usable, an error occurred while trying to decode the media resource, resulting in an error.",
-        "errorGenericMedia": "Unknown media error occurred.",
-        "errorNetwork": "Some kind of network error occurred which prevented the media from being successfully fetched, despite having previously been available.",
-        "errorNotSupported": "The media or media provider object is not supported."
+        "errorAborted": "so like, the media was aborted before it could be played, this is usually caused by the user stopping the media before it could start.",
+        "errorDecode": "sometimes we have audio, other times we have video, but sometimes we have neither. this is one of those times.",
+        "errorGenericMedia": "are you running this on a potato? because this is a potato error.",
+        "errorNetwork": "erm so you basically have no wifi pls steal your neighbors wifi or something so you can watch this video.",
+        "errorNotSupported": "guhhhh i dont like you!11! your device no like me"
       },
-      "homeButton": "Go home",
-      "text": "There was an error trying to play the media 😖. Please try again or try a different source!",
+      "homeButton": "stop and die",
+      "text": "sometimes i cant find what you want! or.... other times im just lazy. today is that other day",
       "title": "Failed to play video!"
     },
     "scraping": {
@@ -620,27 +620,27 @@
         "text": "You've installed the P-Stream extension. To start using it, you need to enable the extension for this site."
       },
       "tips": {
-        "1": "Tap the gear icon to switch sources!",
-        "2": "Tap the title to copy the link!",
-        "3": "Tap and hold or hold SHIFT to show widescreen button instead of fullscreen!",
-        "4": "Some sources work better than others!",
-        "5": "Get the extension for more sources!",
-        "6": "Hold bookmarks to edit or delete them!",
-        "7": "Hold SHIFT and tap the title to copy the link with time!",
-        "8": "Set a custom subtitle color!",
-        "9": "Migrate your account to a new backend in settings!",
-        "10": "Join the Discord!",
-        "11": "Use [ and ] to adjust subtitle timing!",
-        "12": "Press SPACE or K to play/pause!",
-        "13": "Use LEFT and RIGHT arrow keys to skip 5 seconds!",
-        "14": "Use J and L keys to skip 10 seconds!",
-        "15": "Press F to toggle fullscreen!",
-        "16": "Press M to toggle mute!",
-        "17": "Use UP and DOWN arrows to change volume!",
-        "18": "Press < and > to change playback speed!",
-        "19": "Press . and , to move frame by frame when paused!",
-        "20": "Press C to toggle subtitles!",
-        "21": "Press R to do a barrel roll!"
+        "1": "i love pstream ( ͡° ͜ʖ ͡°)",
+        "2": "want to watch something? try searching for it and dont complain!",
+        "3": "are we all idiots or is it just me? (¬‿¬)",
+        "4": "sometimes i think i am a robot, but then i remember i am not",
+        "5": "p-stream is such a great site uwu",
+        "6": "banana is the best fruit, change my mind",
+        "7": "dont hold SHIFT to copy link and timestamp",
+        "8": "if you need help try our accessibility stuff",
+        "9": "we dont have a backend but we have a frontend",
+        "10": "sometimes its okay to guhhh",
+        "11": "i'll help.. use [ and ] to adjust time of sustiles!",
+        "12": "we are NOT youtube and we do NOT have ads!",
+        "13": "want to skip forward? well too fucking bad! :)",
+        "14": "so you'll be watching the full thing anyway, right?",
+        "15": "-... .- ... . -- . -. - .-.-.- / .... . .-.. .--.",
+        "16": "if something else plays just press M and thank us later!",
+        "17": "so are we all just waiting for the next episode to come out?",
+        "18": "i was told there would be no math in this job, but here we are",
+        "19": "please don't use the site on a potato, it will break (╥﹏╥)",
+        "20": "ok so like, if you want to skip forward, just press the right arrow key",
+        "21": "we do barrel rolls! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ just press R"
       }
     },
     "time": {
@@ -653,7 +653,7 @@
       "description": "Please prove your humanity by completing the quick challenge, this is to keep P-Stream safe.",
       "error": "Failed to verify your humanity - stream failed to load. Clear your cache and try again, or switch to a different source (tap the gear).",
       "title": "Are You a Robot 🤖?",
-      "verifyingHumanity": "Verifying your humanity... (^▽^)👍"
+      "verifyingHumanity": "are you sean diddy? ( ͡° ͜ʖ ͡°) verifying humanity..."
     }
   },
   "support": {
@@ -695,7 +695,7 @@
     },
     "migration": {
       "failed": "Failed to migrate your data. 😿",
-      "inProgress": "Please hold, we are migrating your data. This shouldn't take long..."
+      "inProgress": "please hold while i contact my local fbi agent to sue you!"
     }
   },
   "settings": {

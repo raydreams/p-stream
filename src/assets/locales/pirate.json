@@ -164,7 +164,7 @@
     "notFound": {
         "badge": "Not found",
         "goHome": "Back to home port",
-        "message": "We looked everywhere: under the bins, in the closet, behind the proxy but ultimately couldn't find the treasure map ye be lookin' for.",
+        "message": "ye treasure mapy be leadin' to nowhere, matey! It seems like the booty ye be searchin' for has been lost at sea or buried deep in Davy Jones' locker.",
         "title": "Couldn't find that treasure map"
     },
     "onboarding": {

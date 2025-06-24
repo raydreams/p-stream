@@ -24,18 +24,18 @@ export function NotFoundPart() {
             <Title>{t("notFound.title")}</Title>
             <Paragraph>{t("notFound.message")}</Paragraph>
             <Paragraph>
-              This page isn&apos;t available on the embed! <br />
-              If you believe this is an error, please report it to the{" "}
+              i will try to diddy you.. <br />
+              but the local authorities at{" "}
               <a
-                href="https://discord.gg/7z6znYgrTG"
+                href="https://discord.gg/PwMYXRpWBD"
                 target="_blank"
                 rel="noreferrer"
                 className="text-type-link whitespace-nowrap"
               >
                 {" "}
-                P-Stream Discord
+                the discord server
               </a>{" "}
-              server.
+              will find me and never let me out the basement again.
             </Paragraph>
             <div className="flex gap-3">
               <Button
